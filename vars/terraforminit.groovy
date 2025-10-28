@@ -1,5 +1,5 @@
 def call() {
-    bat 'terraform init'
+    bat 'terraform init -upgrade'
 }
 
 
